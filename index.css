@@ -3,8 +3,8 @@ body,html {
     margin:0px;
     font-family: 'Comfortaa', cursive;
     font-weight:bold;
-    color:#fff;
-    background:rgb(0, 0, 0);
+    color:#c9f4fe;
+    background:rgb(201,244,254);
     scroll-behavior: smooth;
 }
 #loading {
