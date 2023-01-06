@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
 
-<!--
-**laraschmittmann/laraschmittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fimbo ![GitHub stars](https://img.shields.io/github/stars/imfunniee/fimbo.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/imfunniee/fimbo.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/imfunniee/fimbo.svg?style=popout-square) 
 
-Here are some ideas to get you started:
+### Free to use Portfolio Templates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See them in action [here](https://imfunniee.github.io/fimbo)
+
+Everyone needs a website to express themselves so i made free website templates. All you need to do is download them and customize them according to your need.
+
+Have Fun. 😄
+
+
+### Add your template
+
+If you have a template you want to be on this repo create a PR
