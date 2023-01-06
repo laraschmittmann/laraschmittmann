@@ -195,6 +195,23 @@ header table {
     transform: scale(1.1);
     cursor: pointer;
 }
+#video {
+    width:100%;
+    columns:3;
+    column-gap:4%;
+    z-index:1;
+    transition:0.4s ease-in-out;
+}
+#video img {
+    width:100%;
+    height:auto;
+    margin:4.5% 0px;
+    transition:0.4s ease-in-out;
+}
+#video img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
 #cv {
     width:92vw;
     padding:6vh 4vw;
@@ -332,6 +349,17 @@ button:focus {
         margin:2% 0px;
     }
     #photos img:hover {
+        transform: scale(1);
+        cursor: pointer;
+    }
+    #video {
+    columns:1;
+    column-gap:0%;
+    }
+    #video img {
+        margin:2% 0px;
+    }
+    #video img:hover {
         transform: scale(1);
         cursor: pointer;
     }
